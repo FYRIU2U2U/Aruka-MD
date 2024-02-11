@@ -8,4 +8,4 @@ Deskripsi Script Bot Wa:
 * Support Pairing Code
 
 Sumber Download: Dari Youtube
-Thanks Untuk Pembuat Script Bot Wa Aruka-MD
+\nThanks Untuk Pembuat Script Bot Wa Aruka-MD
