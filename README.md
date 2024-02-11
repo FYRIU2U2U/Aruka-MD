@@ -1,4 +1,4 @@
-Script Bot Wa Aruka MD V2
+<h1> Script Bot Wa Aruka MD V2 </h1>
 
 Deskripsi Script Bot Wa:
 * Script tidak diperjualbelikan
@@ -8,4 +8,5 @@ Deskripsi Script Bot Wa:
 * Support Pairing Code
 
 Sumber Download: Dari Youtube
-\nThanks Untuk Pembuat Script Bot Wa Aruka-MD
+
+Thanks Untuk Pembuat Script Bot Wa Aruka-MD
