@@ -1,4 +1,4 @@
-<h1> Script Bot Wa Aruka MD V2 </h1>
+<h1> Script Bot Wa Aruka MD-V1 </h1>
 
 Deskripsi Script Bot Wa:
 * Script tidak diperjualbelikan
